@@ -1,0 +1,8 @@
+{
+  "webpackFileNameJS": "[name]-[chunkhash]-chunk.js",
+  "webpackFileNameCSS": "[name]-[contenthash].css",
+  "webpackUseClosureCompiler": true,
+  "webpackDevtool": "none",
+  "webpackMode": "production",
+  "port": 5050
+}

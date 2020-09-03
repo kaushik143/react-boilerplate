@@ -1,0 +1,8 @@
+{
+  "webpackFileNameJS": "[name]-chunk.js",
+  "webpackFileNameCSS": "[name].css",
+  "webpackUseClosureCompiler": true,
+  "webpackDevtool": "source-map",
+  "webpackMode": "development",
+  "port": "8081"
+}
